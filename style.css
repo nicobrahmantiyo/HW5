@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.wrapper .nav {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  background-color: transparent;
+  width: 500px;
+  padding: 50px 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #a2d9ff;
+  justify-content: center;
+  margin-top: 100px;
+  height: auto;
+  display: flex;
+}
+
+.table {
+  border-radius: 10px;
+  justify-content: center;
+}
